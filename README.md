@@ -14,5 +14,5 @@
   
 ---
 ## 贡献者&鸣谢：
-  1.感谢黑果小兵提供的镜像文件
-  2.感谢kirainmoe提供的同类EFI作为参考[a](https://www..com)
+  1.感谢黑果小兵提供的镜像文件  
+  2.感谢kirainmoe提供的同类EFI作为参考[仓库](https://github.com/kirainmoe/hasee-tongfang-macos)  
