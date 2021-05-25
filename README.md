@@ -1,3 +1,6 @@
+# 作者已经更换了m1芯片的mbp。所以该仓库不再维护！ 保留EFI供用兴趣的人参考使用
+
+
 # Hackintosh-Hasee-T96E（clove p95xer/ep）
   这是神舟精盾系列T96E型号的黑苹果EFI仓库-clove p95xer/ep  
     **理论上神舟精盾系列8代标压CPU笔记本均可使用**  
